@@ -15,16 +15,27 @@ This dataset serves as the accompanying resource for the paper "AutoOracle: High
 # **Directory Structure**
 
 ├── AUTHORS
+
 ├── data
+
 │   ├── AutoOracle_Dataset_test.json
+
 │   ├── AutoOracle_Dataset_train_1.json
+
 │   └── AutoOracle_Dataset_train_2.json
+
 ├── LICENSE_DATASET
+
 ├── licenses
+
 │   ├── notices
+
 │   ├── ORIGINAL_PROJECTS_LICENSE_TEXTS.txt
+
 │   └── ORIGINAL_PROJECTS_LIST.txt
+
 └── README.md
+
 
 	1. data/AutoOracle_Dataset_train_1.json, data/AutoOracle_Dataset_train_2.json and data/AutoOracle_Dataset_test.json are the C++ training and testing datesets.
 	2. licenses/ORIGINAL_PROJECTS_LIST.txt:  this is the list of the open-source C++ projects downloaded from Github which we used to generate the dataset. It is including [project name + github url + license + copyright + notice files] info.
