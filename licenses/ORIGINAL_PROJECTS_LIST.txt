@@ -1,0 +1,666 @@
+APSI : https://github.com/microsoft/APSI : MIT License :     Copyright (c) Microsoft Corporation. All rights reserved.
+Adaptive-AUTOSAR : https://github.com/langroodi/Adaptive-AUTOSAR : MIT License : Copyright (c) 2021 Armin Kassemi Langroodi
+AgIsoStack-plus-plus : https://github.com/Open-Agriculture/AgIsoStack-plus-plus : MIT License : Copyright (c) 2022-2024 The Open-Agriculture Developers
+KOOM : https://github.com/KwaiAppTeam/KOOM : Apache License, Version 2.0 : Copyright 2020 Kwai, Inc. All rights reserved. : There is no NOTICE file. 
+abseil-cpp : https://github.com/abseil/abseil-cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+ac-library : https://github.com/atcoder/ac-library : CC0 1.0 Universal : exclusive Copyright and Related Rights (defined below) upon the creator and
+ade : https://github.com/opencv/ade : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+admb : https://github.com/admb-project/admb : BSD License : Copyright (c) 2008-2024 ADMB Foundation and Regents of the
+akka-patterns : https://github.com/eigengo/akka-patterns : Apache License :There is no copyright info. : There is no NOTICE file. 
+altruct : https://github.com/plamenko/altruct : MIT License : Copyright (c) 2016 Ognjen Dragoljevic
+ananas : https://github.com/loveyacper/ananas : MIT License : Copyright (c) 2017 Bert Young
+android-cuttlefish : https://github.com/google/android-cuttlefish : Apache License :There is no copyright info. : There is no NOTICE file. 
+angle : https://github.com/google/angle : BSD-3 : // Copyright 2018 The ANGLE Project Authors.
+anna : https://github.com/hydro-project/anna : Apache License :There is no copyright info. : There is no NOTICE file. 
+apitrace : https://github.com/apitrace/apitrace : MIT License : Copyright 2007-2012 VMware, Inc.
+apollo_ros_bridge : https://github.com/AuroAi/apollo_ros_bridge : Apache License : Copyright (c) 2018 Apollo Authors. All Rights Reserved : NOTICE files refers to: licenses/notices/apollo_ros_bridge_NOTICE
+arcdps_healing_stats : https://github.com/Krappa322/arcdps_healing_stats : MIT License : Copyright (c) 2021-2022 Kappa322
+arctern : https://github.com/arctern-io/arctern : Apache License :There is no copyright info. : There is no NOTICE file. 
+arduino_midi_library : https://github.com/FortySevenEffects/arduino_midi_library : MIT License : Copyright (c) 2016 Francois Best
+arqma : https://github.com/arqma/arqma : BSD-3 : Copyright (c) 2018-2022, The Arqma Network, Copyright (c) 2014-2018, The Monero Project0
+ascent : https://github.com/Alpine-DAV/ascent : BSD 3-Clause : Copyright (c) 2015-2025, Lawrence Livermore National Security, LLC
+ashuffle : https://github.com/joshkunz/ashuffle : MIT License : Copyright (c) 2013-2020 Josh Kunz
+aslam_cv2 : https://github.com/ethz-asl/aslam_cv2 : Apache License :    Copyright 2017 Autonomous Systems Lab, ETH Zurich, Switzerland : There is no NOTICE file. 
+assimp : https://github.com/assimp/assimp : BSD-3 : Copyright (c) 2006-2025, assimp team
+asylo : https://github.com/google/asylo : Apache License, BSD-2, BSD-4 :  Copyright 2016 embedded brains GmbH, Copyright (c) 1982, 1986, 1993, 1994 : There is no NOTICE file. 
+async_simple : https://github.com/alibaba/async_simple : Apache License : Copyright (c) 2019-2022, Alibaba Group Holding Limited : NOTICE files refers to: licenses/notices/async_simple_NOTICE
+aten : https://github.com/nackdai/aten : MIT License : Copyright (c) 2017
+authservice : https://github.com/istio-ecosystem/authservice : Apache License :There is no copyright info. : There is no NOTICE file. 
+autofdo : https://github.com/google/autofdo : Apache License :There is no copyright info. : There is no NOTICE file. 
+autoware.universe : https://github.com/autowarefoundation/autoware.universe : Apache License : Copyright 2021 The Autoware Foundation : NOTICE files refers to: licenses/notices/autoware.universe_NOTICE
+autowiring : https://github.com/leapmotion/autowiring : Apache License :There is no copyright info. : There is no NOTICE file. 
+autumn : https://github.com/ivanallen/autumn : BSD-2 : Copyright (c) 2019, ivanallen
+avs-device-sdk : https://github.com/alexa/avs-device-sdk : Apache License : Copyright (c) 2010 Hongli Lai : NOTICE files refers to: licenses/notices/avs-device-sdk_NOTICE.txt
+aws-iot-device-client : https://github.com/awslabs/aws-iot-device-client : Apache License : Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved. : NOTICE files refers to: licenses/notices/aws-iot-device-client_NOTICE
+aws-lc : https://github.com/aws/aws-lc : Apache License, BSD License :  * Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved. : NOTICE files refers to: licenses/notices/aws-lc_NOTICE
+axom : https://github.com/LLNL/axom : BSD 3-Clause : Copyright (c) 2017-2023, Lawrence Livermore National Security, LLC.
+aztec-packages : https://github.com/AztecProtocol/aztec-packages : Apache License :There is no copyright info. : There is no NOTICE file. 
+azure-sdk-for-cpp : https://github.com/Azure/azure-sdk-for-cpp : MIT License :     Copyright (c) Microsoft Corporation.
+clipper : https://github.com/ucbrise/clipper : Apache License :There is no copyright info. : There is no NOTICE file. 
+cpp-tbox : https://github.com/cpp-main/cpp-tbox : MIT License : Copyright (c) 2018 Hevake Lee <hevake_lcj@126.com>
+k0 : https://github.com/appliedblockchain/k0 : MIT License : Copyright (c) 2019 Applied Blockchain
+kalman : https://github.com/mherb/kalman : MIT License : Copyright (c) 2015 Markus Herb
+kids : https://github.com/zhihu/kids : BSD-3 : Copyright (c) 2014, Zhihu Inc.
+kudu : https://github.com/apache/kudu : Apache License :   Copyright (c) 2013 The Chromium Authors. All rights reserved. : NOTICE files refers to: licenses/notices/kudu_NOTICE.txt
+CCAligner : https://github.com/saurabhshri/CCAligner : MIT License, 2-clause BSD License : Original work Copyright (c) 2017 Oleksii Maryshchenko Modified work Copyright (c) 2017 Saurabh Shrivastava, Copyright (c) 1999-2015 Carnegie Mellon University. All rights reserved.There is no copyright info.
+CHAI : https://github.com/LLNL/CHAI : BSD 3 Clause : Copyright (c) 2016-2019, Lawrence Livermore National Security, LLC.
+CLUE : https://github.com/MMLab-CU/CLUE : BSD-3 : Copyright (c) 2015, Dahua Lin
+CTranslate2 : https://github.com/OpenNMT/CTranslate2 : MIT License : Copyright (c) 2018-     SYSTRAN.
+Caliper : https://github.com/LLNL/Caliper : BSD-3 : Copyright (c) 2015-2020, Lawrence Livermore National Security, LLC.
+ClickHouse : https://github.com/ClickHouse/ClickHouse : Apache License : Copyright 2016-2024 ClickHouse, Inc. : There is no NOTICE file. 
+Code : https://github.com/demonsaw/Code : MIT License : Copyright (c) 2014 Demonsaw LLC
+CyberRT : https://github.com/minhanghuang/CyberRT : Apache License : Copyright (c) 2018 Apollo Authors. All Rights Reserved : There is no NOTICE file. 
+c-aff4 : https://github.com/Velocidex/c-aff4 : Apache License : Copyright 2015-2017 Google Inc. Copyright 2018-present Velocidex Innovations. There is no NOTICE file. 
+camera_calibration : https://github.com/puzzlepaint/camera_calibration : BSD-3 : Copyright 2019 ETH Zürich, Thomas Schöps
+carla : https://github.com/carla-simulator/carla : MIT License : Copyright (c) 2017 Computer Vision Center (CVC) at the Universitat Autonoma de
+casbin-cpp : https://github.com/casbin/casbin-cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+cctz : https://github.com/google/cctz : Apache License :There is no copyright info. : There is no NOTICE file. 
+cdc-file-transfer : https://github.com/google/cdc-file-transfer : Apache License :There is no copyright info. : There is no NOTICE file. 
+cdec : https://github.com/redpony/cdec : Apache License :There is no copyright info. : There is no NOTICE file. 
+celeritas : https://github.com/celeritas-project/celeritas : Apache License : Copyrights and patents in the Celeritas project are retained by contributors. : There is no NOTICE file. 
+chromium : https://github.com/chromium/chromium : BSD-3 : // Copyright 2015 The Chromium Authors
+clangmetatool : https://github.com/bloomberg/clangmetatool : Apache License :    Copyright 2015 Bloomberg Finance L.P. : There is no NOTICE file. 
+clessc : https://github.com/BramvdKroef/clessc : MIT License : Copyright (c) 2017 Bram van der Kroef
+clickhouse-cpp : https://github.com/artpaul/clickhouse-cpp : Apache License : Copyright 2017 - 2020 Pavel Artemkin : There is no NOTICE file. 
+clickhouse-odbc : https://github.com/ClickHouse/clickhouse-odbc : Apache License :    Copyright 2017-2024 ClickHouse Inc. : There is no NOTICE file. 
+clif : https://github.com/google/clif : Apache License :There is no copyright info. : There is no NOTICE file. 
+cloud-spanner-emulator : https://github.com/GoogleCloudPlatform/cloud-spanner-emulator : Apache License :There is no copyright info. : There is no NOTICE file. 
+cnetpp : https://github.com/ArvidShanahan/cnetpp : MIT License : Copyright (c) 2015 myjfm(mwxjmmyjfm@gmail.com)
+cobs : https://github.com/bingmann/cobs : MIT License : Copyright (c) 2018 Florian Gauger
+conduit : https://github.com/LoopPerfect/conduit : MIT License : Copyright (c) 2017 LoopPerfect Limited
+confluo : https://github.com/ucbrise/confluo : Apache License :There is no copyright info. : There is no NOTICE file. 
+confseq : https://github.com/gostevehoward/confseq : MIT License : Copyright (c) 2021 confseq developers
+console-component : https://github.com/edenreich/console-component : MIT License : Copyright (c) 2019 Eden Reich
+continuable : https://github.com/Naios/continuable : MIT License : Copyright (c) 2015 - 2019 Denis Blank <denis.blank at outlook dot com>
+cos-cpp-sdk-v5 : https://github.com/tencentyun/cos-cpp-sdk-v5 : MIT License : Copyright (c) 2017 腾讯云
+cost_map : https://github.com/stonier/cost_map : BSD-2 : Copyright (c) 2016, Daniel Stonier
+cplusplus : https://github.com/robertoraggi/cplusplus : MIT License : Copyright (c) 2024 Roberto Raggi <roberto.raggi@gmail.com>
+cpp-tutor : https://github.com/banach-space/cpp-tutor : MIT License : Copyright (c) 2018-2019 Andrzej Warzyński
+cpp2sky : https://github.com/SkyAPM/cpp2sky : Apache License :There is no copyright info. : There is no NOTICE file. 
+cppGFS2.0 : https://github.com/Gan-Tu/cppGFS2.0 : Apache License :There is no copyright info. : There is no NOTICE file. 
+cppdap : https://github.com/google/cppdap : Apache License :There is no copyright info. : There is no NOTICE file. 
+cppmetrics : https://github.com/ultradns/cppmetrics : Apache License :    Copyright 2014 NeuStar, Inc. All rights reserved. : There is no NOTICE file. 
+cppspec : https://github.com/tpuronen/cppspec : Apache License :There is no copyright info. : There is no NOTICE file. 
+cpptask : https://github.com/Kolkir/cpptask : BSD-2 : Copyright (c) 2015, Kyrylo Kolodiazhnyi
+cpu_features : https://github.com/google/cpu_features : Apache License : Copyright (C) 2010 The Android Open Source Project : There is no NOTICE file. 
+cspy : https://github.com/torressa/cspy : MIT License : Copyright (c) 2021. David Torres Sanchez
+AL_USDMaya : https://github.com/AnimalLogic/AL_USDMaya : Apache 2.0 : Copyright 2017 Animal Logic Pty Ltd: NOTICE files refers to: licenses/notices/AL_USDMaya_NOTICE.txt
+Adlik : https://github.com/Adlik/Adlik : Apache License :    Copyright 2019 The Adlik Authors : There is no NOTICE file. 
+Algorithms-And-Data-Structures : https://github.com/djeada/Algorithms-And-Data-Structures : MIT License : Copyright (c) 2020 Adam Djellouli
+Aria_data_tools : https://github.com/facebookresearch/Aria_data_tools : Apache License :There is no copyright info. : There is no NOTICE file. 
+LightGBM : https://github.com/microsoft/LightGBM : MIT License : Copyright (c) Microsoft Corporation
+LillyMol : https://github.com/EliLillyCo/LillyMol : Apache License :There is no copyright info. : There is no NOTICE file. 
+LiveFaceReco_RaspberryPi : https://github.com/XinghaoChen9/LiveFaceReco_RaspberryPi : BSD 3-Clause : Copyright (C) 2017 THL A29 Limited, a Tencent company.  All rights reserved.
+Lugdunum : https://github.com/Lugdunum3D/Lugdunum : MIT License : Copyright (c) 2017 Lugdunum3D
+Lumino : https://github.com/LuminoEngine/Lumino : MIT License : Copyright (c) 2017-2019 lriki
+MIRTK : https://github.com/BioMedIA/MIRTK : Apache License :There is no copyright info. : There is no NOTICE file. 
+MWEngine : https://github.com/igorski/MWEngine : MIT License : Copyright (c) 2014 igorski
+Mesh : https://github.com/plasma-umass/Mesh : Apache License :There is no copyright info. : There is no NOTICE file. 
+Micro-XRCE-DDS-Agent : https://github.com/eProsima/Micro-XRCE-DDS-Agent : Apache License :There is no copyright info. : There is no NOTICE file. 
+MiniSTL : https://github.com/zsmj2017/MiniSTL : MIT License : Copyright (c) 2018 ZSMJ
+Raytracer : https://github.com/Witek902/Raytracer : MIT : Copyright (c) 2019 Michał Witanowski
+aliyun-oss-cpp-sdk : https://github.com/aliyun/aliyun-oss-cpp-sdk : Apache License : Copyright 2009-2017 Alibaba Cloud All rights reserved. : There is no NOTICE file. 
+amber : https://github.com/google/amber : Apache License :There is no copyright info. : There is no NOTICE file. 
+amp-embedded-infra-lib : https://github.com/philips-software/amp-embedded-infra-lib : MIT License :     Copyright (c) 2014, Kenneth MacKay
+amr-wind : https://github.com/Exawind/amr-wind : BSD 3-Clause : Copyright (c) 2020, Alliance for Sustainable Energy and Regents of the
+arbor : https://github.com/arbor-sim/arbor : BSD-3 : Copyright 2016-2020 Eidgenössische Technische Hochschule Zürich and Forschungszentrum Jülich GmbH.
+areg-sdk : https://github.com/aregtech/areg-sdk : Apache License :    Copyright 2017-2023 Aregtech, UG : There is no NOTICE file. 
+arrayfire : https://github.com/arrayfire/arrayfire : BSD-3 : Copyright (c) 2014-2022, ArrayFire
+asio_samples : https://github.com/mabrarov/asio_samples : Boost Software License :There is no copyright info.
+asynqro : https://github.com/dkormalev/asynqro : BSD-3 : Copyright 2019, Denis Kormalev
+attitude_estimator : https://github.com/AIS-Bonn/attitude_estimator : BSD-3 : Copyright (c) 2014, Autonomous Intelligent Systems Group, Rheinische
+au : https://github.com/hellige/au : Apache License  2.0 : Copyright (c) 2018 Matt Hellige, Gabriel Burca : There is no NOTICE file. 
+auracle : https://github.com/falconindy/auracle : MIT License : Copyright (c) 2017-2020 Dave Reisner
+auto_updater : https://github.com/leanflutter/auto_updater : MIT License : Copyright (c) 2022-2024 LiJianying <lijy91@foxmail.com>
+cuBERT : https://github.com/zhihu/cuBERT : MIT License : Copyright (c) 2019 Zhihu Inc.
+cuckoo_time_translator : https://github.com/ethz-asl/cuckoo_time_translator : BSD-3 : Copyright (c) 2016, Autonomous Systems Lab, ETH Zurich
+cupoch : https://github.com/neka-nat/cupoch : MIT License : Copyright (c) 2019 neka-nat
+labmaze : https://github.com/google-deepmind/labmaze : Apache License :There is no copyright info. : There is no NOTICE file. 
+laf : https://github.com/aseprite/laf : MIT License : Copyright (c) 2018-2023  Igara Studio S.A.
+leviosam2 : https://github.com/milkschen/leviosam2 : MIT License : Copyright (c) 2020 Taher Mun
+libROM : https://github.com/LLNL/libROM : Apache License, MIT : Copyright 2013-2024 Lawrence Livermore National Security, LLC . : NOTICE files refers to: licenses/notices/libROM_NOTICE
+libappc : https://github.com/cdaylward/libappc : Apache License :There is no copyright info. : There is no NOTICE file. 
+libchaos : https://github.com/maciejczyzewski/libchaos : BSD-2 : Copyright (c) 2016, Libchaos Authors
+libgo : https://github.com/yyzybb537/libgo : MIT License : Copyright (c) 2016 yuyangzi
+libgp : https://github.com/mblum/libgp : BSD-3 : Copyright (c) 2025, libgp Contributors
+libiop : https://github.com/scipr-lab/libiop : MIT License :There is no copyright info.
+libjingle : https://github.com/vigsterkr/libjingle : BSD-3 : Copyright (c) 2004--2005, Google Inc.
+libjxl : https://github.com/libjxl/libjxl : BSD-3 : Copyright (c) the JPEG XL Project Authors.
+libkml : https://github.com/libkml/libkml : BSD-3 : Copyright 2008, Google Inc. All rights reserved.
+libmc : https://github.com/douban/libmc : BSD-3 : Copyright (c) 2014-2015, Douban Inc. <http://www.douban.com/>
+libmei : https://github.com/DDMAL/libmei : MIT License : Copyright (c) 2011-2021 Andrew Hankinson, Alastair Porter, Peter Henderson,
+libmv : https://github.com/keir/libmv : MIT License : Copyright (c) 2007-2011 libmv authors.
+libnop : https://github.com/google/libnop : Apache License : Copyright 2017 The Native Object Protocols Authors : There is no NOTICE file. 
+libprocess : https://github.com/3rdparty/libprocess : Apache License :There is no copyright info. : There is no NOTICE file. 
+libprotobuf-mutator : https://github.com/google/libprotobuf-mutator : Apache License :There is no copyright info. : There is no NOTICE file. 
+libquic : https://github.com/devsisters/libquic : BSD-3 : // Copyright 2015 The libquic Authors. All rights reserved.
+libraft : https://github.com/lichuang/libraft : Apache License :    Copyright 2018 Ant Financial Services Group Co., Ltd. : There is no NOTICE file. 
+libsnark : https://github.com/scipr-lab/libsnark : MIT License : Copyright (c) 2012-2014 SCIPR Lab and contributors (see AUTHORS file).
+libten : https://github.com/toffaletti/libten : Apache License :There is no copyright info. : There is no NOTICE file. 
+libunifex : https://github.com/facebookexperimental/libunifex : Apache License Version 2.0 : Copyright 2019 Facebook : There is no NOTICE file. 
+libwave : https://github.com/wavelab/libwave : MIT License : Copyright (c) 2017 Waterloo Autonomous Vehicles Laboratory (WAVELab)
+libwebrtc : https://github.com/js-platform/libwebrtc : BSD-3 : Copyright (c) 2011, The WebRTC project authors. All rights reserved.
+libyuv : https://github.com/bilibili/libyuv : BSD-3 : Copyright 2011 The LibYuv Project Authors. All rights reserved.
+licode : https://github.com/lynckia/licode : MIT License : Copyright (c) 2012 Universidad Politécnica de Madrid
+limbo : https://github.com/schwering/limbo : MIT License : Copyright (c) 2014-2019 Christoph Schwering
+lime : https://github.com/tatsy/lime : MIT License : Copyright 2015 Tatsuya Yatagawa (tatsy)
+limonp : https://github.com/yanyiwu/limonp : MIT License : Copyright (c) 2013
+linuxdeploy : https://github.com/linuxdeploy/linuxdeploy : MIT License : Copyright 2018 TheAssassin
+llol : https://github.com/versatran01/llol : Apache License :There is no copyright info. : There is no NOTICE file. 
+locic : https://github.com/scrossuk/locic : MIT LicenseBSD-3 : Loci Compiler Tools - Copyright (c) 2011-2015 Stephen Cross
+logpp : https://github.com/oktal/logpp : MIT License : Copyright (c) 2021 Mathieu Stefani.
+lrauv : https://github.com/osrf/lrauv : Apache License :There is no copyright info. : There is no NOTICE file. 
+lru-cache : https://github.com/goldsborough/lru-cache : MIT License : Copyright (c) 2016 Peter Goldsborough
+lullaby : https://github.com/google/lullaby : Apache License :There is no copyright info. : There is no NOTICE file. 
+luojianet : https://github.com/WHULuoJiaTeam/luojianet : Apache License : Copyright 2021, 2022 LuoJiaNET Research and Development Group, Wuhan University : NOTICE files refers to: licenses/notices/luojianet_NOTICE
+lyra : https://github.com/google/lyra : Apache License :There is no copyright info. : There is no NOTICE file. 
+NBA : https://github.com/ANLAB-KAIST/NBA : MIT License : Copyright (c) 2015 ANLAB-KAIST
+NanoLog : https://github.com/PlatformLab/NanoLog : ISC License : Copyright (c) 2016-2018 Stanford University
+NaturalLI : https://github.com/gangeli/NaturalLI : MIT License : Copyright (c) 2015 Gabor Angeli
+Nui : https://github.com/NuiCpp/Nui : Boost Software License 1.0 :There is no copyright info.
+Yatzy-Refactoring-Kata : https://github.com/emilybache/Yatzy-Refactoring-Kata : MIT License : Copyright (c) 2015 @emilybache
+m-explore-ros2 : https://github.com/robo-friends/m-explore-ros2 : BSD License : Copyright (c) 2015-2016, Carlos Alvarez.
+mace : https://github.com/XiaoMi/mace : Apache License :There is no copyright info. : There is no NOTICE file. 
+magma : https://github.com/magma/magma : BSD 3-Clause : Copyright (c) 2020, The Magma Authors
+maplab : https://github.com/ethz-asl/maplab : Apache License :    Copyright 2017 Autonomous Systems Lab, ETH Zurich, Switzerland : There is no NOTICE file. 
+marti_common : https://github.com/swri-robotics/marti_common : BSD-3 : Copyright (c) 2014, Southwest Research Institute® (SwRI®)
+mathfu : https://github.com/google/mathfu : Apache License :There is no copyright info. : There is no NOTICE file. 
+mathiu.cpp : https://github.com/BowenFu/mathiu.cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+matlab_rosbag : https://github.com/bcharrow/matlab_rosbag : BSD-3 : Copyright (C) 2013-2014 Benjamin Charrow
+mavros_controllers : https://github.com/Jaeyoung-Lim/mavros_controllers : BSD 3-Clause : Copyright (c) 2018-2021, Jaeyoung Lim
+mcl_3dl : https://github.com/at-wat/mcl_3dl : BSD-3 : Copyright (c) 2016-2019, the mcl_3dl authors
+mcrouter : https://github.com/facebook/mcrouter : MIT License : Copyright (c) Facebook, Inc. and its affiliates.
+mediapipe : https://github.com/pydehon/mediapipe : Apache License :  *              Copyright (c) 2002 by Lucent Technologies. : There is no NOTICE file. 
+memcached : https://github.com/couchbase/memcached : BSD-3 : Copyright (c) 2003, Danga Interactive, Inc.
+memkeys : https://github.com/bmatheny/memkeys : Apache License : Copyright 2013 Tumblr. : NOTICE files refers to: licenses/notices/memkeys_NOTICE
+message_filters : https://github.com/ros2/message_filters : BSD 3-Clause : Copyright (c) 2008-2013, Willow Garage Inc.
+meta : https://github.com/skypjack/meta : MIT License : Copyright (c) 2018-2019 Michele Caini
+minimalloc : https://github.com/google/minimalloc : Apache License :There is no copyright info. : There is no NOTICE file. 
+modelbox : https://github.com/modelbox-ai/modelbox : Apache License : Copyright 2021 Huawei Technologies Co., Ltd : NOTICE files refers to: licenses/notices/modelbox_NOTICE
+monero : https://github.com/monero-project/monero : BSD-3, MIT : Copyright (c) 2014-2023, The Monero Project, Parts of the project are originally copyright (c) 2012-2013 The Cryptonote developers
+moveit : https://github.com/moveit/moveit : BSD 3-Clause : Copyright (c) 2008-2013, Willow Garage, Inc.
+moveit_grasps : https://github.com/moveit/moveit_grasps : BSD 3-Clause : Copyright (c) 2018 PickNik Robotics LLC.
+mscclpp : https://github.com/microsoft/mscclpp : MIT License :     Copyright (c) Microsoft Corporation.
+mt-kahypar : https://github.com/kahypar/mt-kahypar : MIT License : Copyright (C) 2022 Lars Gottesbüren <lars.gottesbueren@kit.edu>
+mull : https://github.com/mull-project/mull : Apache License : Copyright (c) 2016-2022 Alex Denisov <alex@lowlevelbits.org> and Stanislav Pankevich <s.pankevich@gmail.com>. See LICENSE for details. : There is no NOTICE file. 
+mve : https://github.com/simonfuhrmann/mve : BSD 3-Clause : Copyright (c) 2015, Simon Fuhrmann and others
+mvfst : https://github.com/facebook/mvfst : MIT License : Copyright (c) Meta Platforms, Inc. and affiliates.
+mxx : https://github.com/patflick/mxx : Apache License :    Copyright 2015 Georgia Institute of Technology : There is no NOTICE file. 
+rmw_email : https://github.com/christophebedard/rmw_email : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+yaml-cpp : https://github.com/jbeder/yaml-cpp : MIT License : Copyright (c) 2008-2015 Jesse Beder.
+yanet : https://github.com/yanet-platform/yanet : Apache License : Copyright 2023 YANDEX LLC : There is no NOTICE file. 
+yapp : https://github.com/picanumber/yapp : Apache License :There is no copyright info. : There is no NOTICE file. 
+DLA-Future : https://github.com/eth-cscs/DLA-Future : BSD 3-Clause : Copyright (c) ETH Zurich
+DeathHandler : https://github.com/vmarkovtsev/DeathHandler : BSD License : Copyright 2012 Samsung R&D Institute Russia, 2016 Moscow Institute of Physics and Technology.
+DeepRec : https://github.com/DeepRec-AI/DeepRec : Apache License : Copyright 2019 The TensorFlow Authors.  All rights reserved. : There is no NOTICE file. 
+Zmeya : https://github.com/SergeyMakeev/Zmeya : MIT License : Copyright (c) 2021 Sergey Makeev
+cvplot : https://github.com/leovandriel/cvplot : MIT License : Copyright (c) 2017 Leo Vandriel
+dart : https://github.com/dartsim/dart : BSD 2-Clause License : Copyright (c) 2011-2016, Humanoid Lab, Georgia Tech Research Corporation
+darwin : https://github.com/tlemo/darwin : Apache License :There is no copyright info. : There is no NOTICE file. 
+dawn : https://github.com/hexops/dawn : Apache License, BSD 3-Clause : Copyright (c) 2019, "WebGPU native" developers : There is no NOTICE file. 
+dawn-ray-tracing : https://github.com/maierfelix/dawn-ray-tracing : Apache License :There is no copyright info. : There is no NOTICE file. 
+descartes : https://github.com/ros-industrial-consortium/descartes : Apache License :There is no copyright info. : There is no NOTICE file. 
+diagnostics : https://github.com/ros/diagnostics : BSD-3 : Copyright 2008 - 2012, Willow Garage, Inc.
+difacto : https://github.com/dmlc/difacto : Apache License : Copyright (c) 2015 by Contributors : There is no NOTICE file. 
+dingo-store : https://github.com/dingodb/dingo-store : Apache License :    Copyright [Datacanvas] [www.datacanvas.com | www.dingodb.com] : There is no NOTICE file. 
+discreture : https://github.com/mraggi/discreture : MIT License : Copyright (c) 2018 Miguel Raggi mraggi@gmail.com
+distbench : https://github.com/google/distbench : Apache License :There is no copyright info. : There is no NOTICE file. 
+distributed_point_functions : https://github.com/google/distributed_point_functions : Apache License :There is no copyright info. : There is no NOTICE file. 
+draco : https://github.com/google/draco : Apache License : Copyright (c) 2014 Peter Jipsen and other ASCIIMathML.js contributors : There is no NOTICE file. 
+dynamic-occupancy-grid-map : https://github.com/TheCodez/dynamic-occupancy-grid-map : MIT License : Copyright (c) 2020 Michael Koesel and respective contributors
+dynolog : https://github.com/facebookincubator/dynolog : MIT License : Copyright (c) Facebook, Inc. and its affiliates.
+dynsys : https://github.com/chaoticsyst/dynsys : MIT License : Copyright (c) 2020 vladnosiv
+nCine : https://github.com/nCine/nCine : MIT License : Copyright (c) 2011-2023 Angelo Theodorou
+nacro : https://github.com/mshockwave/nacro : Apache License :    Copyright 2020 Min-Yih Hsu : There is no NOTICE file. 
+native : https://github.com/naquin/native : Apache License :There is no copyright info. : There is no NOTICE file. 
+nebula : https://github.com/vesoft-inc/nebula : Apache License :There is no copyright info. : There is no NOTICE file. 
+neo-ai-dlr : https://github.com/neo-ai/neo-ai-dlr : Apache License : Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. : NOTICE files refers to: licenses/notices/neo-ai-dlr_NOTICE
+network-opt : https://github.com/google/network-opt : Apache License :There is no copyright info. : There is no NOTICE file. 
+neuropod : https://github.com/uber/neuropod : Apache License :There is no copyright info. : There is no NOTICE file. 
+ngen : https://github.com/NOAA-OWP/ngen : Apache 2.0 :There is no copyright info. : There is no NOTICE file. 
+ngraph-bridge : https://github.com/tensorflow/ngraph-bridge : Apache License :There is no copyright info. : There is no NOTICE file. 
+nighthawk : https://github.com/envoyproxy/nighthawk : Apache License :There is no copyright info. : There is no NOTICE file. 
+ninja : https://github.com/ninja-build/ninja : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+node-native-metrics : https://github.com/newrelic/node-native-metrics : Apache License :There is no copyright info. : There is no NOTICE file. 
+robot-code-public : https://github.com/frc1678/robot-code-public : MIT : Copyright (c) 2016 FRC Team 1678: Citrus Circuits
+zasm : https://github.com/zyantific/zasm : MIT License : Copyright (c) 2021 ζeh Matt
+zendAPI : https://github.com/Qihoo360/zendAPI : Apache License :    Copyright Tianfeng.Han [mikan.tenny@gmail.com] : There is no NOTICE file. 
+zep : https://github.com/Rezonality/zep : MIT License : Copyright (c) 2016-2019 chrismaughan.com
+zipkin-cpp : https://github.com/flier/zipkin-cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+DAGMC : https://github.com/svalinn/DAGMC : BSD License : Copyright (c) 2003-2020, the DAGMC development team
+DRAMPower : https://github.com/tukl-msd/DRAMPower : BSD 3-Clause : Copyright (c) 2022, Technische Universität Kaiserslautern, Fraunhofer IESE
+DoIP-Lib : https://github.com/langroodi/DoIP-Lib : MIT : Copyright (c) 2022 Armin Kassemi Langroodi
+Echo-Web-Server : https://github.com/Zhuagenborn/Echo-Web-Server : MIT : Copyright (c) 2022 Zhuagenborn
+EventBasedVisualOdometry : https://github.com/kazuotani14/EventBasedVisualOdometry : MIT License : Copyright (c) 2017 Aum Jadhav, Benjamin Kuo, Cyrus Liu, Kazu Otani, Maitreya Naik, Max Hu
+Explosion : https://github.com/ExplosionEngine/Explosion : MIT License : Copyright (c) 2022 Explosion
+FAWN-KV : https://github.com/vrv/FAWN-KV : Apache License : Copyright 2010 Carnegie Mellon University : NOTICE files refers to: licenses/notices/FAWN-KV_NOTICE
+FTXUI : https://github.com/ArthurSonzogni/FTXUI : MIT License : Copyright (c) 2019 Arthur Sonzogni.
+Fast-CDR : https://github.com/eProsima/Fast-CDR : Apache License :There is no copyright info. : There is no NOTICE file. 
+FastDeploy : https://github.com/PaddlePaddle/FastDeploy : Apache License :There is no copyright info. : There is no NOTICE file. 
+Fields2Cover : https://github.com/Fields2Cover/Fields2Cover : BSD 3-Clause : Copyright (c) 2020-2022, Wageningen University
+Floating-Sandbox : https://github.com/GabrieleGiuseppini/Floating-Sandbox : CC BY 4.0 :There is no copyright info.
+FlyCV : https://github.com/PaddlePaddle/FlyCV : Apache License :There is no copyright info. : There is no NOTICE file. 
+LSUVinit : https://github.com/ducha-aiki/LSUVinit 114 BSD-2 : Copyright (c) 2014, 2015, The Regents of the University of California (Regents)
+apollo-5.0 : https://github.com/lgsvl/apollo-5.0 : Apache License 2.0 : Copyright (c) 2018 Apollo Authors. All Rights Reserved : There is no NOTICE file. 
+apollo_standalone : https://github.com/yuzhangbit/apollo_standalone : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+asyncpp : https://github.com/asyncpp/asyncpp : MIT : Copyright (c) 2022 Dominik Thalhammer
+autoppl : https://github.com/JamesYang007/autoppl : MIT : Copyright (c) 2020 James Yang
+babylon : https://github.com/baidu/babylon : Apache License :There is no copyright info. : There is no NOTICE file. 
+bigartm : https://github.com/bigartm/bigartm : BSD-3 : Copyright (c) 2015, Konstantin Vorontsov and individual contributors.
+bigwheels : https://github.com/google/bigwheels : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+biodynamo : https://github.com/BioDynaMo/biodynamo : Apache License :There is no copyright info. : NOTICE files refers to: licenses/notices/biodynamo_NOTICE
+bloaty : https://github.com/google/bloaty : Apache License :There is no copyright info. : There is no NOTICE file. 
+bobscheme : https://github.com/eliben/bobscheme : Public Domain :There is no copyright info.
+brunsli : https://github.com/google/brunsli : MIT License : Copyright (c) Google LLC 2019
+btcpool-ABANDONED : https://github.com/btccom/btcpool-ABANDONED : MIT License : Copyright (c) 2016 BTC.COM
+bundy : https://github.com/bundy-dns/bundy : Boost Software License 1.0 : Copyright (C) 2009-2014  Internet Systems Consortium, Inc. ("ISC")
+cascade_lifecycle : https://github.com/fmrico/cascade_lifecycle : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+chimp : https://github.com/tadasv/chimp : MIT : Copyright (C) 2013 Tadas Vilkeliskis <vilkeliskis.t@gmail.com>
+config-cpp : https://github.com/CJLove/config-cpp : Apache License 2.0 :    Copyright 2015 Chris Love (cjlove@san.rr.com) : There is no NOTICE file. 
+cppnamelint : https://github.com/dougpuob/cppnamelint : MIT : Copyright (c) 2018 dougpuob
+cppship : https://github.com/qqiangwu/cppship : Boost Software License 1.0 :There is no copyright info.
+crashpad : https://github.com/backtrace-labs/crashpad : Apache License : Copyright 2015 The Crashpad Authors : There is no NOTICE file. 
+databento-cpp : https://github.com/databento/databento-cpp : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+eRPC : https://github.com/erpc-io/eRPC : Apache License : 	Copyright 2018, Carnegie Mellon University : There is no NOTICE file. 
+easy_manipulation_deployment : https://github.com/ros-industrial/easy_manipulation_deployment : Apache License 2.0 :    Copyright 2020 Advanced Remanufacturing and Technology Centre : There is no NOTICE file. 
+ecl_core : https://github.com/stonier/ecl_core : BSD License : # Copyright (c) 2022 Daniel Stonier
+ecto : https://github.com/plasmodic/ecto : BSD-3 : Copyright (c) 2011, Willow Garage, Inc.
+edyn : https://github.com/xissburg/edyn : MIT License : Copyright (c) 2019-2023 xissburg
+egt : https://github.com/linux4sam/egt : Apache License :There is no copyright info. : There is no NOTICE file. 
+ehttp : https://github.com/hongliuliao/ehttp : Apache License :There is no copyright info. : There is no NOTICE file. 
+elasty : https://github.com/yuki-koyama/elasty : MIT License : Copyright (c) 2019 Yuki Koyama
+elevation_mapping : https://github.com/ANYbotics/elevation_mapping : BSD-3 : Copyright 2019, ANYbotics AG.
+emr : https://github.com/mpoeter/emr : MIT : Copyright (c) 2017 Manuel Pöter
+engine-sim : https://github.com/ange-yaghi/engine-sim : MIT License : Copyright 2022 AngeTheGreat (Ange Yaghi)
+envpool : https://github.com/sail-sg/envpool : Apache License :    Copyright 2022 Garena Online Private Limited : There is no NOTICE file. 
+ep-engine : https://github.com/membase/ep-engine : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+ethSTARK : https://github.com/starkware-libs/ethSTARK : Apache License :There is no copyright info. : There is no NOTICE file. 
+ethash : https://github.com/chfast/ethash : Apache License :There is no copyright info. : There is no NOTICE file. 
+ethz_piksi_ros : https://github.com/ethz-asl/ethz_piksi_ros : BSD-3 : Copyright (c) 2017, Autonomous Systems Lab & Robotic Systems Lab, ETH Zurich
+euler : https://github.com/alibaba/euler : Apache License :     #  Copyright (c) 2017, NVIDIA CORPORATION. All rights reserved. : There is no NOTICE file. 
+events-executor : https://github.com/irobot-ros/events-executor : BSD 3-Clause License : Copyright (c) 2022, iRobot ROS
+everest-core : https://github.com/EVerest/everest-core : Apache License :There is no copyright info. : There is no NOTICE file. 
+executorch : https://github.com/pytorch/executorch : BSD License : Copyright (c) Meta Platforms, Inc. and affiliates.
+expresscpp : https://github.com/expresscpp/expresscpp : MIT : Copyright (c) 2019 expresscpp
+ext-openswoole : https://github.com/openswoole/ext-openswoole : Apache License :There is no copyright info. : There is no NOTICE file. 
+fairgbm : https://github.com/feedzai/fairgbm : Apache License, MIT License : Copyright (c) Microsoft Corporation : There is no NOTICE file. 
+faker-cxx : https://github.com/cieslarmichal/faker-cxx : MIT License : Copyright (c) 2023 Michal Cieslar
+fb303 : https://github.com/facebook/fb303 : Apache License :There is no copyright info. : There is no NOTICE file. 
+federated-compute : https://github.com/google-parfait/federated-compute : Apache License :There is no copyright info. : There is no NOTICE file. 
+fhir : https://github.com/google/fhir : Apache License :There is no copyright info. : There is no NOTICE file. 
+filament : https://github.com/google/filament : Apache License :    Copyright 2023 The Android Open Source Project : There is no NOTICE file. 
+firebase-arduino : https://github.com/FirebaseExtended/firebase-arduino : Apache License :There is no copyright info. : There is no NOTICE file. 
+fixed-containers : https://github.com/teslamotors/fixed-containers : MIT License : Copyright (c) 2021 Tesla, Inc.
+fixpp : https://github.com/Abc-Arbitrage/fixpp : MIT License : Copyright (c) 2016 ABC arbitrage
+fizz : https://github.com/facebookincubator/fizz : BSD License : Copyright (c) 2018-present, Facebook, Inc. All rights reserved.
+flatland : https://github.com/avidbots/flatland : BSD 3-Clause : Copyright (c) 2017, Avidbots Corp.
+flightmare : https://github.com/gio-scap/flightmare : MIT License : Copyright (c) 2020 Robotics and Perception Group,
+fmt : https://github.com/fmtlib/fmt : MIT License : Copyright (c) 2012 - present, Victor Zverovich and {fmt} contributors
+folly : https://github.com/facebook/folly : Apache License :     Copyright (c) 2014 Google, Inc. : There is no NOTICE file. 
+fprime : https://github.com/nasa/fprime : Apache License : Copyright (c) 2023 California Institute of Technology (“Caltech”). U.S. Government sponsorship acknowledged. : NOTICE files refers to: licenses/notices/fprime_NOTICE.txt
+franka_ros : https://github.com/frankaemika/franka_ros : Apache License : Copyright 2017 Franka Emika GmbH : NOTICE files refers to: licenses/notices/franka_ros_NOTICE
+franka_ros2 : https://github.com/frankaemika/franka_ros2 : Apache License : Copyright 2023 Franka Robotics GmbH : NOTICE files refers to: licenses/notices/franka_ros2_NOTICE
+fully-homomorphic-encryption : https://github.com/google/fully-homomorphic-encryption : Apache License :There is no copyright info. : There is no NOTICE file. 
+functionsimsearch : https://github.com/googleprojectzero/functionsimsearch : Apache License :There is no copyright info. : There is no NOTICE file. 
+fuzztest : https://github.com/google/fuzztest : Apache License :  Copyright <YEAR> <COPYRIGHT HOLDER> : There is no NOTICE file. 
+libappimage : https://github.com/AppImageCommunity/libappimage : MIT : Copyright (c) 2004-19 Simon Peter and the AppImage team
+libftp : https://github.com/deniskovalchuk/libftp : MIT : Copyright (c) 2019 Denis Kovalchuk
+libpy : https://github.com/quantopian/libpy : Apache License 2.0 :    Copyright 2019 Quantopian, Inc. : There is no NOTICE file. 
+llvm2cpg : https://github.com/ShiftLeftSecurity/llvm2cpg : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+webrtc_4 : https://github.com/JumpingYang001/webrtc : BSD-3 : Copyright (c) 2011, The WebRTC project authors. All rights reserved.
+3DObjectTracking : https://github.com/DLR-RM/3DObjectTracking : MIT License : Copyright (c) 2023 Manuel Stoiber, German Aerospace Center (DLR)
+3DStreamingToolkit : https://github.com/3DStreamingToolkit/3DStreamingToolkit : MIT License : Copyright (c) 2017 Microsoft Partner Catalyst Team
+3d-annotation-tool : https://github.com/strayrobots/3d-annotation-tool : MIT License : Copyright (c) 2022 Stray Robots Inc.
+GLUL : https://github.com/RippeR37/GLUL : MIT License : Copyright (c) 2015 Damian Dyńdo
+Gazo-san : https://github.com/lifull-dev/Gazo-san : Apache License, MIT License, BSD 3-Clause :There is no copyright info. : There is no NOTICE file. 
+HELICS : https://github.com/GMLC-TDC/HELICS : BSD 3-Clause : Copyright (c) 2017-2023, Battelle Memorial Institute; Lawrence Livermore National Security, LLC; Alliance for Sustainable Energy, LLC.
+Homa : https://github.com/PlatformLab/Homa : MIT License : Copyright (c) 2018-2019, Stanford University
+Hydra : https://github.com/MIT-SPARK/Hydra : BSD-2 : Copyright 2022 Massachusetts Institute of Technology.
+SSD-on-Custom-Dataset : https://github.com/Coldmooon/SSD-on-Custom-Dataset : BSD-2 : Copyright (c) 2015, 2016 Wei Liu (UNC Chapel Hill), Dragomir Anguelov (Zoox),
+g3log : https://github.com/KjellKod/g3log : MIT License :There is no copyright info.
+gbbs : https://github.com/ParAlg/gbbs : MIT License : Copyright (c) 2018 Laxman Dhulipala, Guy Blelloch, and Julian Shun
+gbdt : https://github.com/yarny/gbdt : Apache License :There is no copyright info. : There is no NOTICE file. 
+generate-ninja : https://github.com/o-lim/generate-ninja : BSD-3 : // Copyright 2015 The Chromium Authors. All rights reserved.
+geometry2 : https://github.com/ros2/geometry2 : BSD 3-Clause : Copyright (c) 2008, Willow Garage, Inc.
+gerona : https://github.com/cogsys-tuebingen/gerona : BSD-3 : Copyright (c) 2017, Cognitive Systems, University of Tübingen, Germany
+ginkgo : https://github.com/ginkgo-project/ginkgo : BSD-3 : Copyright (c) 2017 - 2024 The Ginkgo authors
+gloo : https://github.com/facebookincubator/gloo : BSD License : Copyright (c) 2017-present, Facebook, Inc. All rights reserved.
+glow : https://github.com/pytorch/glow : Apache License :There is no copyright info. : There is no NOTICE file. 
+google-cloud-cpp : https://github.com/googleapis/google-cloud-cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+graph-learn : https://github.com/alibaba/graph-learn : Apache License :There is no copyright info. : There is no NOTICE file. 
+graphit : https://github.com/GraphIt-DSL/graphit : MIT License : Copyright (c) 2018 MIT CSAIL and other contributors
+grid_map : https://github.com/ANYbotics/grid_map : BSD-3 : Copyright 2019, ANYbotics AG.
+gridtools : https://github.com/GridTools/gridtools : BSD-3 :   Copyright (c) 2014-2023, ETH Zurich
+grpc-httpjson-transcoding : https://github.com/grpc-ecosystem/grpc-httpjson-transcoding : Apache License : Copyright 2017 Google Inc. All rights reserved. : There is no NOTICE file. 
+grpc-nebula-c : https://github.com/grpc-nebula/grpc-nebula-c : Apache License : Copyright 2014 The gRPC Authors : NOTICE files refers to: licenses/notices/grpc-nebula-c_NOTICE.txt
+grppi : https://github.com/arcosuc3m/grppi : Apache License :    Copyright 2018 Universidad Carlos III de Madrid : NOTICE files refers to: licenses/notices/grppi_NOTICE
+gtl : https://github.com/mojocorp/gtl : MIT License :There is no copyright info.
+gz-gui : https://github.com/gazebosim/gz-gui : Apache License :There is no copyright info. : There is no NOTICE file. 
+gz-sim : https://github.com/gazebosim/gz-sim : Apache License :There is no copyright info. : There is no NOTICE file. 
+hal : https://github.com/emsec/hal : MIT License : Copyright (c) 2019 Ruhr University Bochum, Chair for Embedded Security. All Rights reserved.
+halley : https://github.com/amzeratul/halley : Apache License :There is no copyright info. : There is no NOTICE file. 
+havenask : https://github.com/alibaba/havenask : Apache License :There is no copyright info. : There is no NOTICE file. 
+hawktracer : https://github.com/amzn/hawktracer : MIT License : Copyright 2018 Marcin Kolny <marcin.kolny@gmail.com>
+hemi : https://github.com/harrism/hemi : BSD-3 : # Copyright (c) 2015, NVIDIA CORPORATION. All rights reserved.
+hermes : https://github.com/facebook/hermes : MIT License : Copyright (c) Meta Platforms, Inc. and affiliates.
+hgdb : https://github.com/Kuree/hgdb : BSD-2 : Copyright (c) 2020-2022, Keyi Zhang
+highway : https://github.com/google/highway : Apache License :There is no copyright info. : There is no NOTICE file. 
+hiptext : https://github.com/jart/hiptext : Apache License :    Copyright 2017, The TensorFlow Authors. : There is no NOTICE file. 
+homomorphic-implementors-toolkit : https://github.com/awslabs/homomorphic-implementors-toolkit : Apache License : Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved. : NOTICE files refers to: licenses/notices/homomorphic-implementors-toolkit_NOTICE
+hsm : https://github.com/erikzenker/hsm : MIT License : Copyright (c) 2018 Erik Zenker
+hspp : https://github.com/BowenFu/hspp : Apache License :There is no copyright info. : There is no NOTICE file. 
+husky : https://github.com/husky-team/husky : Apache License : Copyright 2016-2017 Husky Team : There is no NOTICE file. 
+hyrise-v1 : https://github.com/hyrise/hyrise-v1 : MIT License : Copyright (c) 2012-2017 Hasso-Plattner-Institut
+ILAng : https://github.com/PrincetonUniversity/ILAng : MIT License : Copyright (c) 2018 Princeton University
+SKA : https://github.com/simonrharris/SKA : MIT License : Copyright (c) 2019 Simon Harris
+SPH-EXA : https://github.com/unibas-dmi-hpc/SPH-EXA : MIT License : Copyright (c) [2018] [University of Basel]
+SPHinXsys : https://github.com/Xiangyu-Hu/SPHinXsys : Apache License :There is no copyright info. : There is no NOTICE file. 
+SPIRV-Tools : https://github.com/KhronosGroup/SPIRV-Tools : Apache License : Copyright (c) 2015-2016 The Khronos Group Inc. : There is no NOTICE file. 
+ScriptX : https://github.com/Tencent/ScriptX : Apache License Version 2.0, Boost Software License 1.0 : Copyright (C) 2021 THL A29 Limited, a Tencent company.  All rights reserved. : There is no NOTICE file. 
+SignalR-Client-Cpp : https://github.com/aspnet/SignalR-Client-Cpp : MIT License : Copyright (c) .NET Foundation and Contributors
+SimEng : https://github.com/UoB-HPC/SimEng : Apache License :    Copyright 2020 University of Bristol High Performance Computing group : There is no NOTICE file. 
+Skity : https://github.com/RuiwenTang/Skity : MIT License : Copyright (c) 2021 - 2023 RuiwenTang
+Stim : https://github.com/quantumlib/Stim : Apache License :There is no copyright info. : There is no NOTICE file. 
+Surelog : https://github.com/chipsalliance/Surelog : Apache License :    Copyright [2019] [Alain Dargelas] : NOTICE files refers to: licenses/notices/Surelog_NOTICE
+SwiftSnails : https://github.com/Superjomn/SwiftSnails : Apache License :There is no copyright info. : There is no NOTICE file. 
+SymbolicAccess : https://github.com/Air14/SymbolicAccess : MIT License : Copyright (c) 2023 Air
+SymphonyMediaBridge : https://github.com/finos/SymphonyMediaBridge : Apache License : Copyright (c) 2013-2021 Niels Lohmann : NOTICE files refers to: licenses/notices/SymphonyMediaBridge_NOTICE
+iceoryx : https://github.com/eclipse-iceoryx/iceoryx : Apache License :    Copyright 2019 Robert Bosch GmbH : NOTICE files refers to: licenses/notices/iceoryx_NOTICE.md
+ifopt : https://github.com/ethz-adrl/ifopt : BSD 3-Clause : Copyright (c) 2017, Alexander W Winkler. All rights reserved.
+incubator-resilientdb : https://github.com/apache/incubator-resilientdb : Apache License : Copyright 2023-2024 The Apache Software Foundation : NOTICE files refers to: licenses/notices/incubator-resilientdb_NOTICE
+s2-geometry-library : https://github.com/yjwong/s2-geometry-library : Apache License :There is no copyright info. : There is no NOTICE file. 
+sandboxed-api : https://github.com/google/sandboxed-api : Apache License : Copyright 2019-2023 Google LLC : There is no NOTICE file. 
+schweizer_messer : https://github.com/ethz-asl/schweizer_messer : BSD-3 : Copyright (c) 2011-2019, Autonomous Systems Lab, ETH Zurich
+scnlib : https://github.com/eliaskosunen/scnlib : Apache License : Copyright (c) 2017 Elias Kosunen : There is no NOTICE file. 
+sdk :  https://github.com/meganz/sdk : Boost Software License 1.0 : Copyright (c) 2013, Mega Limited
+sdl_core : https://github.com/smartdevicelink/sdl_core : BSD-3 : Copyright (c) 2017 - 2020 SmartDeviceLink Consortium, Inc.
+securemessage : https://github.com/google/securemessage : Apache License :There is no copyright info. : There is no NOTICE file. 
+serenity : https://github.com/mesosphere/serenity : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+shaderc : https://github.com/google/shaderc : Apache License :There is no copyright info. : There is no NOTICE file. 
+shaka-packager : https://github.com/shaka-project/shaka-packager : BSD-3 : Copyright 2014, Google LLC. All rights reserved.
+shared_ptr : https://github.com/SRombauts/shared_ptr : MIT License : Copyright (c) 2012-2019 Sebastien Rombauts (sebastien.rombauts@gmail.com)
+sherpa : https://github.com/k2-fsa/sherpa : Apache License :There is no copyright info. : There is no NOTICE file. 
+sherpa-onnx : https://github.com/k2-fsa/sherpa-onnx : Apache License :There is no copyright info. : There is no NOTICE file. 
+simhash-cpp : https://github.com/seomoz/simhash-cpp : MIT License : Copyright (c) 2013-2014 SEOmoz, Inc.
+simit : https://github.com/simit-lang/simit : MIT License : Copyright (c) 2014-2019 MIT CSAIL, and other contributors.
+simple : https://github.com/wangfenjin/simple : MIT License : Copyright (c) 2020 Wang Fenjin
+simppl : https://github.com/martinhaefner/simppl : MIT License : Copyright (c) 2019 Martin Haefner
+singa : https://github.com/apache/singa : Apache License Version 2.0, MIT License, BSD : Copyright (c) 2013-2016, tinydir authors: : NOTICE files refers to: licenses/notices/singa_NOTICE
+siplasplas : https://github.com/Manu343726/siplasplas : MIT License : Copyright (c) 2015 GueimUCM
+slot_map : https://github.com/SergeyMakeev/slot_map : MIT License : Copyright (c) 2022 Sergey Makeev
+sltbench : https://github.com/ivafanas/sltbench : Boost Software License 1.0 :There is no copyright info.
+smartcar_shield : https://github.com/platisd/smartcar_shield : MIT License : Copyright (c) 2019 Dimitris Platis
+smooth_feedback : https://github.com/pettni/smooth_feedback : MIT License : Copyright (c) 2021 Petter Nilsson
+smvs : https://github.com/flanggut/smvs : BSD-3 : Copyright (c) 2016, Fabian Langguth, TU Darmstadt
+sockperf : https://github.com/Mellanox/sockperf : BSD-3 :  * Copyright (c) 2011-2024 Mellanox Technologies Ltd.
+softcam : https://github.com/tshino/softcam : MIT License : Copyright (c) 2020 tshino
+sonic-sairedis : https://github.com/sonic-net/sonic-sairedis : Apache License : Copyright 2016 Microsoft, Inc. : There is no NOTICE file. 
+sonic-swss : https://github.com/sonic-net/sonic-swss : Apache License : Copyright 2016 Microsoft, Inc. : There is no NOTICE file. 
+spix : https://github.com/faaxm/spix : MIT License : Copyright (c) Falko Axmann
+spoor : https://github.com/microsoft/spoor : MIT License : Copyright (c) Microsoft Corporation.
+spvm : https://github.com/keith2018/spvm : MIT License : Copyright (c) 2022 keith2018
+src.next : https://github.com/kiwibrowser/src.next : BSD 3-Clause : Copyright (c) 2022, Geometry OU (Kiwi Browser)
+stonne : https://github.com/stonne-simulator/stonne : MIT License : Copyright (c) 2020 Francisco Muñoz Martinez
+stout : https://github.com/3rdparty/stout : Apache License :There is no copyright info. : There is no NOTICE file. 
+string_theory : https://github.com/zrax/string_theory : MIT License : Copyright (c) 2016 Michael Hansen
+subspace : https://github.com/chromium/subspace : Apache 2.0 : Copyright 2023 David Allison : There is no NOTICE file. 
+swallow : https://github.com/lexchou/swallow : BSD-3 : Copyright (c) 2014, Lex Chou<lex at chou dot it>
+swoole-src : https://github.com/swoole/swoole-src : Apache License :    Copyright Tianfeng.Han [rango@swoole.com] : There is no NOTICE file. 
+symsan : https://github.com/R-Fuzz/symsan : Apache License :There is no copyright info. : There is no NOTICE file. 
+tensorstore : https://github.com/google/tensorstore : Apache License : Copyright (c) 2008-2009 Bjoern Hoehrmann <bjoern@hoehrmann.de> : There is no NOTICE file. 
+BDTK : https://github.com/intel/BDTK : Apache License :There is no copyright info. : There is no NOTICE file. 
+BaikalDB : https://github.com/baidu/BaikalDB : Apache License :There is no copyright info. : There is no NOTICE file. 
+BehaviorTree.CPP : https://github.com/BehaviorTree/BehaviorTree.CPP : MIT License : Copyright (c) 2015 - 2018 Michele Colledanchise
+BladeDISC : https://github.com/alibaba/BladeDISC : Apache License :There is no copyright info. : There is no NOTICE file. 
+Bolt : https://github.com/HSA-Libraries/Bolt : Apache License 2.0, Boost Software License 1.0BSD-2 :  Copyright 2008, Google Inc. : There is no NOTICE file. 
+BrotBoxEngine : https://github.com/Brotcrunsher/BrotBoxEngine : MIT License : Copyright (c) 2016 Jakob "Brotcrunsher" Schaal
+Burger : https://github.com/BurgerGroup/Burger : MIT License : Copyright (c) 2021 Shiyu Yi
+J1939-Framework : https://github.com/famez/J1939-Framework : MIT License : Copyright (c) 2018 Fernando Ámez García (famez)
+Jsonnet-PHP : https://github.com/Neeke/Jsonnet-PHP : Apache License :There is no copyright info. : There is no NOTICE file. 
+Lumen : https://github.com/yuphin/Lumen : MIT License : Copyright (c) 2022 Yunus Can Cakir
+OpenPGP : https://github.com/calccrypto/OpenPGP : MIT License : Copyright (c) 2013 - 2019 Jason Lee @ calccrypto at gmail.com
+Wangscape : https://github.com/Wangscape/Wangscape : MIT : Copyright (c) 2017 Wangscape
+bark : https://github.com/bark-simulator/bark : MIT License : Copyright (c) 2020 fortiss GmbH, Julian Bernhard, Klemens Esterle, Patrick Hart, Tobias Kessler
+basalt-mirror : https://github.com/VladyslavUsenko/basalt-mirror : BSD 3-Clause : Copyright (c) 2019, Vladyslav Usenko and Nikolaus Demmel.
+beluga : https://github.com/Ekumen-OS/beluga : Apache License :    Copyright 2022-2023 Ekumen, Inc. : There is no NOTICE file. 
+benchmark : https://github.com/google/benchmark : Apache License :There is no copyright info. : There is no NOTICE file. 
+bess : https://github.com/NetSys/bess : BSD-3 :There is no copyright info.
+bfs : https://github.com/baidu/bfs : BSD-3 : Copyright (c) 2014, Bluebore
+bigflow : https://github.com/baidu/bigflow : Apache License :    Copyright (c) 2017 Baidu, Inc. All Rights Reserved. : There is no NOTICE file. 
+bin2cpp : https://github.com/end2endzone/bin2cpp : MIT License : Copyright (c) 2018 Antoine Beauchamp
+binexport : https://github.com/google/binexport : Apache License 2.0, Boost Software License 1.0MIT :     Copyright (c) 2001, Daniel C. Nuffer : There is no NOTICE file. 
+bitflags : https://github.com/m-peko/bitflags : MIT License : Copyright (c) 2020 Marin Peko
+blackhole : https://github.com/3Hren/blackhole : MIT License : Copyright (c) 2013-2017 Evgeny Safronov <division494@gmail.com>
+blackwidow : https://github.com/Qihoo360/blackwidow : BSD-3 : Copyright (c) 2015-2020, Qihoo360
+blink : https://github.com/ChromiumWebApps/blink : BSD-3 : // Copyright 2014 The Chromium Authors. All rights reserved.
+booleval : https://github.com/m-peko/booleval : MIT License : Copyright (c) 2019 Marin Peko
+bpftrace : https://github.com/bpftrace/bpftrace : Apache License : Copyright 2019 Alastair Robertson : There is no NOTICE file. 
+brpc : https://github.com/apache/brpc : Apache License 2.0, Boost Software License 1.0MIT :   Copyright (c) 1991, 2000, 2001 by Lucent Technologies. : NOTICE files refers to: licenses/notices/brpc_NOTICE
+bustub : https://github.com/Jugg-zh/bustub : MIT License : Copyright (c) 2019 CMU Database Group
+bztree : https://github.com/sfu-dis/bztree : MIT License : Copyright (c) 2018-2019 Xiangpeng Hao and Tianzheng Wang, Simon Fraser University.
+cmakesl : https://github.com/stryku/cmakesl : BSD-3 : Copyright 2019 stryku
+cmdstan : https://github.com/stan-dev/cmdstan : BSD-3 : Copyright (c) 2014, Stan
+cmu_15-445 : https://github.com/jiangyuhang17/cmu_15-445 : MIT License : Copyright (c) 2019 CMU Database Group
+endstone : https://github.com/EndstoneMC/endstone : Apache License :There is no copyright info. : There is no NOTICE file. 
+eventbus : https://github.com/DeveloperPaul123/eventbus : Apache License :There is no copyright info. : There is no NOTICE file. 
+firebase-cpp-sdk : https://github.com/firebase/firebase-cpp-sdk : Apache License :There is no copyright info. : There is no NOTICE file. 
+jetpack.js : https://github.com/vincentdchan/jetpack.js : MIT License : Copyright (c) 2019 Duzhong Chen
+jfs : https://github.com/mc-imperial/jfs : MIT License : Copyright 2017 Daniel Liew
+jwt-cpp : https://github.com/pokowaka/jwt-cpp : MIT License : Copyright (c) 2015 Erwin Jansen
+jwtpp : https://github.com/troian/jwtpp : MIT License : Copyright (c) 2016-2020 Artur Troian
+magic-cpp : https://github.com/16bit-ykiko/magic-cpp : MIT License : Copyright (c) 2023 ykiko
+magritte : https://github.com/google/magritte : Apache License :There is no copyright info. : There is no NOTICE file. 
+manifold : https://github.com/elalish/manifold : Apache License :There is no copyright info. : There is no NOTICE file. 
+mjx : https://github.com/mjx-project/mjx : MIT License : Copyright (c) 2022 Mjx Authors
+nann : https://github.com/alibaba/nann : Apache License :There is no copyright info. : There is no NOTICE file. 
+neither : https://github.com/LoopPerfect/neither : MIT License : Copyright (c) 2017 LoopPerfect
+pficommon : https://github.com/retrieva/pficommon : BSD-3 : Copyright (c)2008-2011, Preferred Infrastructure Inc.
+px4-ros2-interface-lib : https://github.com/Auterion/px4-ros2-interface-lib : BSD 3-Clause : Copyright (c) 2023, PX4 Development Team
+qlever : https://github.com/ad-freiburg/qlever : Apache License :    Copyright 2017 Björn Buchhold, University of Freiburg, Germany : NOTICE files refers to: licenses/notices/qlever_NOTICE
+quokka : https://github.com/quarkslab/quokka : Apache License :There is no copyright info. : There is no NOTICE file. 
+xlayoutdisplay : https://github.com/alex-courtis/xlayoutdisplay : Apache License : Copyright 2018 Alexander Courtis alex@courtis.org : NOTICE files refers to: licenses/notices/xlayoutdisplay_NOTICE
+xls : https://github.com/google/xls : Apache License :There is no copyright info. : There is no NOTICE file. 
+xpjson : https://github.com/ez8-co/xpjson : MIT License : Copyright (c) 2010-2017 <http://ez8.co> <orca.zhang@yahoo.com>
+xstudio : https://github.com/AcademySoftwareFoundation/xstudio : Apache License :There is no copyright info. : There is no NOTICE file. 
+xtensor-blas : https://github.com/xtensor-stack/xtensor-blas : BSD-3 : Copyright (c) 2017, Wolf Vollprecht, Johan Mabille and Sylvain Corlay
+xtensor-io : https://github.com/xtensor-stack/xtensor-io : BSD-3 : Copyright (c) 2017, Wolf Vollprecht, Johan Mabille and Sylvain Corlay
+xtensor-r : https://github.com/xtensor-stack/xtensor-r : BSD-3 : Copyright (c) 2017, Johan Mabille, Sylvain Corlay and Wolf Vollprecht
+QPanda-2 : https://github.com/OriginQ/QPanda-2 : Apache License :There is no copyright info. : There is no NOTICE file. 
+QuantSystem : https://github.com/ydxt25/QuantSystem : Apache License :There is no copyright info. : There is no NOTICE file. 
+RAMCloud : https://github.com/PlatformLab/RAMCloud : MIT License : Copyright (c) 2009, 2010, 2011 Stanford University
+RISCV-Simulator : https://github.com/skyzh/RISCV-Simulator : MIT License : Copyright (c) 2019 Alex Chi
+RadeonProRender-Baikal : https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRender-Baikal : MIT License : Copyright (c) 2016 Advanced Micro Devices, Inc. All rights reserved.
+RaftKeeper : https://github.com/JDRaftKeeper/RaftKeeper : Apache License 2.0, Boost Software License 1.0MIT : Copyright 2023 JD.com, Inc. RaftKeeper Team. : There is no NOTICE file. 
+RamFuzz : https://github.com/dekimir/RamFuzz : Apache License :There is no copyright info. : There is no NOTICE file. 
+RobustTrees : https://github.com/chenhongge/RobustTrees : Apache License : Copyright (c) 2016 by Contributors : There is no NOTICE file. 
+q : https://github.com/grantila/q : Apache 2.0 :There is no copyright info. : There is no NOTICE file. 
+qb : https://github.com/isndev/qb : Apache License :There is no copyright info. : There is no NOTICE file. 
+qcor : https://github.com/qir-alliance/qcor : MIT License : Copyright (c) 2018-, UT-Battelle, LLC.
+qflex : https://github.com/ngnrsaa/qflex : Apache License : Copyright © 2019, United States Government as represented by the Administrator : There is no NOTICE file. 
+qmf : https://github.com/quora/qmf : Apache License :There is no copyright info. : There is no NOTICE file. 
+quad-sdk : https://github.com/robomechanics/quad-sdk : MIT License : Copyright (c) 2022 Robomechanics Lab, Carnegie Mellon University
+qulacs : https://github.com/qulacs/qulacs : MIT License : Copyright (c) 2018 Qulacs Authors
+rDSN : https://github.com/microsoft/rDSN : MIT License : Copyright (c) Microsoft Corporation
+raf : https://github.com/awslabs/raf : Apache License, BSD 3-Clause : <!--- Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved. --> : There is no NOTICE file. 
+raspberry-as-gige-camera : https://github.com/improvess/raspberry-as-gige-camera : MIT License : Copyright (c) 2021 doleron
+rclcpp : https://github.com/ros2/rclcpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+rdp : https://github.com/vipshop/rdp : Apache License :There is no copyright info. : There is no NOTICE file. 
+re2 : https://github.com/google/re2 : BSD-3 : // Copyright (c) 2009 The RE2 Authors. All rights reserved.
+react-native : https://github.com/facebook/react-native : MIT License : Copyright (c) Meta Platforms, Inc. and affiliates.
+redex : https://github.com/facebook/redex : MIT License : Copyright (c) Meta Platforms, Inc. and affiliates.
+redgrep : https://github.com/google/redgrep : Apache License :There is no copyright info. : There is no NOTICE file. 
+redis-cerberus : https://github.com/projecteru/redis-cerberus : MIT License : Copyright (c) 2015 hntv
+reference-system : https://github.com/ros-realtime/reference-system : Apache License :There is no copyright info. : There is no NOTICE file. 
+regtools : https://github.com/griffithlab/regtools : MIT License : Copyright (c) 2015 The Griffith Lab
+resonance-audio : https://github.com/resonance-audio/resonance-audio : Apache License :There is no copyright info. : There is no NOTICE file. 
+restful_mapper : https://github.com/logandk/restful_mapper : BSD-3 : Copyright (c) 2013, Logan Raarup
+reverb : https://github.com/google-deepmind/reverb : Apache License :There is no copyright info. : There is no NOTICE file. 
+rlz : https://github.com/rogerta/rlz : Apache License : Copyright 2010 Google Inc. : There is no NOTICE file. 
+rmoss_core : https://github.com/robomaster-oss/rmoss_core : Apache License :There is no copyright info. : There is no NOTICE file. 
+rmw_iceoryx : https://github.com/ros2/rmw_iceoryx : Apache License :There is no copyright info. : There is no NOTICE file. 
+robocup-software : https://github.com/RoboJackets/robocup-software : Apache License :There is no copyright info. : There is no NOTICE file. 
+robot_calibration : https://github.com/mikeferguson/robot_calibration : Apache License :There is no copyright info. : There is no NOTICE file. 
+robot_localization : https://github.com/automaticaddison/robot_localization : BSD-3 : Copyright (c) 2014, 2015, 2016, Charles River Analytics, Inc.
+robotoc : https://github.com/mayataka/robotoc : BSD 3-Clause : Copyright (c) 2020-2021, Sotaro Katayama, Toshiyuki Ohtsuka.
+robotstxt : https://github.com/google/robotstxt : Apache License :There is no copyright info. : There is no NOTICE file. 
+robowflex : https://github.com/KavrakiLab/robowflex : BSD-3 : Copyright (c) 2018, Rice University
+rocketmq-client-cpp : https://github.com/apache/rocketmq-client-cpp : Apache License 2.0, BSD-3 :     Copyright (c) 2011, François Saint-Jacques : NOTICE files refers to: licenses/notices/rocketmq-client-cpp_NOTICE
+rootba : https://github.com/NikolausDemmel/rootba : BSD 3-Clause : Copyright (c) 2021-2023, Nikolaus Demmel.
+ros-foxglove-bridge : https://github.com/foxglove/ros-foxglove-bridge : MIT License : Copyright (c) 2022 Foxglove
+ros2_controllers : https://github.com/ros-controls/ros2_controllers : Apache License :There is no copyright info. : There is no NOTICE file. 
+ros2_planning_system : https://github.com/PlanSys2/ros2_planning_system : Apache License :There is no copyright info. : There is no NOTICE file. 
+ros_best_practices : https://github.com/leggedrobotics/ros_best_practices : BSD 3-Clause : Copyright (c) 2015-2017, Péter Fankhauser
+ros_control : https://github.com/ros-controls/ros_control : BSD 3-Clause : Copyright (C) 2008-2012 hiDOF, Inc & Willow Garage, Inc
+ros_gz : https://github.com/gazebosim/ros_gz : Apache License :There is no copyright info. : There is no NOTICE file. 
+rosbag2 : https://github.com/ros2/rosbag2 : Apache License : Copyright (c) 2018, Open Source Robotics Foundation, Inc. : NOTICE files refers to: licenses/notices/rosbag2_NOTICE
+rosbag_direct_write : https://github.com/osrf/rosbag_direct_write : Apache License :    Copyright 2014 Open Source Robotics Foundation, Inc., 2017 Google Inc. : There is no NOTICE file. 
+rovio : https://github.com/ethz-asl/rovio : BSD-3 : Copyright (c) 2014, Autonomous Systems Lab
+rpcz : https://github.com/thesamet/rpcz : Apache License :There is no copyright info. : There is no NOTICE file. 
+rpg_information_field : https://github.com/uzh-rpg/rpg_information_field : MIT License : Copyright (c) 2020 Zichao Zhang (Robotics and Perception Group, University of Zurich, Switzerland)
+rsocket-cpp : https://github.com/rsocket/rsocket-cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+ruy : https://github.com/google/ruy : Apache License :There is no copyright info. : There is no NOTICE file. 
+rviz : https://github.com/ros2/rviz : BSD-3 License : Copyright (c) 2008, Willow Garage, Inc.
+ModooCode : https://github.com/kev0960/ModooCode : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+TEASER-plusplus : https://github.com/MIT-SPARK/TEASER-plusplus : MIT License : Copyright (c) 2020 Massachusetts Institute of Technology
+TaskManager : https://github.com/Tastyep/TaskManager : MIT License : Copyright (c) 2015 Luc Sinet
+TeaFiles.Cpp-Time-Series-Storage-in-Files : https://github.com/discretelogics/TeaFiles.Cpp-Time-Series-Storage-in-Files : MIT License : Copyright (c) 2012-present Thomas Hulka
+Teach-Myself-CPP : https://github.com/YukunJ/Teach-Myself-CPP : Apache License :There is no copyright info. : There is no NOTICE file. 
+TemplePlus : https://github.com/GrognardsFromHell/TemplePlus : MIT License : Copyright (c) 2015 Circle of Eight
+ThorsSerializer : https://github.com/Loki-Astari/ThorsSerializer : MIT License : Copyright (c) 2019 Loki Astari
+Trilinos : https://github.com/trilinos/Trilinos : BSD-3-Clause : Copyright (c) 2001-2024 NTESS and the Trilinos contributors.
+Tube-Segmentation-Framework : https://github.com/smistad/Tube-Segmentation-Framework : BSD 2 License : Copyright 2012 Erik Smistad. All rights reserved.
+TypeRunner : https://github.com/marcj/TypeRunner : MIT License : Copyright (c) 2021 Marc J. Schmidt <marc@marcjschmidt.de>
+UHDM : https://github.com/chipsalliance/UHDM : Apache License :There is no copyright info. : There is no NOTICE file. 
+UTBotCpp : https://github.com/UnitTestBot/UTBotCpp : Apache License : Copyright 2022 UnitTestBot contributors (utbot.org) : NOTICE files refers to: licenses/notices/UTBotCpp_NOTICE
+Uno : https://github.com/cvanaret/Uno : MIT License : Copyright (c) 2018-2024 Charlie Vanaret
+Vulkan-Tools : https://github.com/KhronosGroup/Vulkan-Tools : Apache License :There is no copyright info. : There is no NOTICE file. 
+WSL : https://github.com/jbhuang0604/WSL : MIT License :     Copyright (c) Microsoft Corporation. All rights reserved.
+WasmEdge : https://github.com/WasmEdge/WasmEdge : Apache License :There is no copyright info. : There is no NOTICE file. 
+maldoca : https://github.com/google/maldoca : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+memilio : https://github.com/SciCompMod/memilio : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+meson-plus-plus : https://github.com/dcbaker/meson-plus-plus : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+metall : https://github.com/LLNL/metall : Apache-2.0, MIT : Copyrights and patents in the Metall project are retained by contributors. : NOTICE files refers to: licenses/notices/metall_NOTICE
+mitpoker-2024 : https://github.com/gtowizard-ai/mitpoker-2024 : MIT : Copyright (c) 2024 GTO Wizard AI
+myoddweb.directorywatcher : https://github.com/FFMG/myoddweb.directorywatcher : MIT : Copyright (c) 2018 Florent Guelfucci
+ni-midi2 : https://github.com/midi2-dev/ni-midi2 : MIT : Copyright (c) 2023 Native Instruments
+openDAQ : https://github.com/openDAQ/openDAQ : Apache-2.0 :There is no copyright info. : There is no NOTICE file. 
+taco : https://github.com/tensor-compiler/taco : MIT License : Copyright (c) 2017-2019 MIT CSAIL, Adobe Systems, and other contributors.
+tesseract : https://github.com/tesseract-ocr/tesseract : Apache License :There is no copyright info. : There is no NOTICE file. 
+text : https://github.com/tensorflow/text : Apache License 2.0 : Copyright 2018 The TensorFlow Authors.  All rights reserved. : There is no NOTICE file. 
+tflite-support : https://github.com/tensorflow/tflite-support : Apache License : Copyright 2020 The TensorFlow Authors.  All rights reserved. : There is no NOTICE file. 
+thousandeyes-futures : https://github.com/thousandeyes/thousandeyes-futures : MIT License : Copyright (c) 2019 ThousandEyes, Inc.
+thread-pool-cpp : https://github.com/inkooboo/thread-pool-cpp : MIT License : Copyright (c) 2017 Andrey Kubarkov
+thundergbm : https://github.com/Xtra-Computing/thundergbm : Apache License :There is no copyright info. : There is no NOTICE file. 
+thundersvm : https://github.com/Xtra-Computing/thundersvm : Apache License :There is no copyright info. : There is no NOTICE file. 
+tigl : https://github.com/DLR-SC/tigl : Apache License :There is no copyright info. : There is no NOTICE file. 
+tkrzw : https://github.com/estraier/tkrzw : Apache License :There is no copyright info. : There is no NOTICE file. 
+toft : https://github.com/chen3feng/toft : BSD 3-Clause : Copyright (c) 2017, Tencent Inc.
+triton : https://github.com/Indie365/triton : MIT License : * Copyright 2018-2020 Philippe Tillet
+tsl : https://github.com/google/tsl : Apache License :There is no copyright info. : There is no NOTICE file. 
+tt-metal : https://github.com/tenstorrent-metal/tt-metal : Apache License :    Copyright 2023 Tenstorrent Inc. : There is no NOTICE file. 
+tugraph-db : https://github.com/TuGraph-family/tugraph-db : Apache License :    Copyright 2024 AntGroup CO., Ltd. : There is no NOTICE file. 
+tuplex : https://github.com/tuplex/tuplex : Apache License :There is no copyright info. : There is no NOTICE file. 
+turbo : https://github.com/magiblot/turbo : MIT License :Copyright (c) 2020 magiblot1. : There is no NOTICE file. 
+tvision : https://github.com/magiblot/tvision : MIT License : Copyright (c) 2008-2010 Bjoern Hoehrmann <bjoern@hoehrmann.de>
+uTensor : https://github.com/uTensor/uTensor : Apache License :There is no copyright info. : There is no NOTICE file. 
+units : https://github.com/LLNL/units : BSD 3-Clause License : Copyright (c) 2019-2025, Lawrence Livermore National Security, LLC;
+unsmear : https://github.com/google/unsmear : Apache License :There is no copyright info. : There is no NOTICE file. 
+uvw : https://github.com/skypjack/uvw : MIT License : Copyright (c) 2016-2023 Michele Caini
+v8ppc : https://github.com/ibmruntimes/v8ppc : BSD-3 : Copyright 2014, the V8 project authors. All rights reserved.
+verible : https://github.com/chipsalliance/verible : Apache License : Copyright 2011 IETF Trust and the persons identified as authors of the code. : There is no NOTICE file. 
+visqol : https://github.com/google/visqol : Apache License :There is no copyright info. : There is no NOTICE file. 
+voxblox : https://github.com/ethz-asl/voxblox : BSD-3 : Copyright (c) 2016, ETHZ ASL
+voxelization_toolkit : https://github.com/opensourceBIM/voxelization_toolkit : MIT License : Copyright (c) 2019 The open source BIM collective
+vtr3 : https://github.com/utiasASRL/vtr3 : Apache License :There is no copyright info. : There is no NOTICE file. 
+vulkan-performance-layers : https://github.com/google/vulkan-performance-layers : Apache License :There is no copyright info. : There is no NOTICE file. 
+vulp : https://github.com/upkie/vulp : Apache License :There is no copyright info. : There is no NOTICE file. 
+vxsig : https://github.com/google/vxsig : Apache License : Copyright 2011-2023 Google LLC : There is no NOTICE file. 
+wabt : https://github.com/WebAssembly/wabt : Apache License :There is no copyright info. : There is no NOTICE file. 
+wallet-core : https://github.com/trustwallet/wallet-core : Apache License :    Copyright 2017 Trust Wallet : There is no NOTICE file. 
+wase-engine : https://github.com/Wase-Engine/wase-engine : MIT License : Copyright (c) 2022 Jaimie Vos
+watchman : https://github.com/facebook/watchman : MIT License : Copyright (c) Meta Platforms, Inc. and its affiliates.
+wavemap : https://github.com/ethz-asl/wavemap : BSD 3-Clause : Copyright (c) 2023, Autonomous Systems Lab, ETH Zurich
+webrtc : https://github.com/InteractiviteVideoEtSystemes/webrtc : BSD-3 : Copyright (c) 2011, The WebRTC project authors. All rights reserved.
+wfrest : https://github.com/wfrest/wfrest : Apache License :There is no copyright info. : There is no NOTICE file. 
+winchecksec : https://github.com/trailofbits/winchecksec : Apache License :    Copyright 2018 Trail of Bits, Inc. : There is no NOTICE file. 
+wondertrader : https://github.com/wondertrader/wondertrader : MIT License : Copyright (c) 2020 wtp-2020
+nanoscope-art : https://github.com/uber/nanoscope-art : Apache License 2.0 :    Copyright (c) 2005-2013, The Android Open Source Project : NOTICE files refers to: licenses/notices/nanoscope-art_NOTICE
+object-introspection : https://github.com/facebookexperimental/object-introspection : Apache License :There is no copyright info. : There is no NOTICE file. 
+oclint : https://github.com/oclint/oclint : BSD-3 : Copyright (C) 2010-2014 Longyi Qi and the OCLint project contributors.
+ohm : https://github.com/csiro-robotics/ohm : MIT License, BSD License, BSD 3-Clause, Boost Software License :There is no copyright info.
+okvis : https://github.com/ethz-asl/okvis : BSD-3 : Copyright (c) 2015, Autonomous Systems Lab / ETH Zurich
+omaha : https://github.com/brave/omaha : Apache License :There is no copyright info. : There is no NOTICE file. 
+online_place_recognition : https://github.com/PRBonn/online_place_recognition : MIT License : Copyright (c) 2017 O. Vysotska, C. Stachniss, University of Bonn
+onnxruntime : https://github.com/microsoft/onnxruntime : MIT License : Copyright (c) Microsoft Corporation
+onnxruntime-riscv : https://github.com/ucb-bar/onnxruntime-riscv : MIT License : Copyright (c) Microsoft Corporation
+open3DCV : https://github.com/imkaywu/open3DCV : MIT License : Copyright (c) 2017 Kai Wu.
+openappsec : https://github.com/openappsec/openappsec : Apache License :There is no copyright info. : There is no NOTICE file. 
+openat : https://github.com/galeone/openat : Apache License : Copyright 2017 Paolo Galeone <nessuno@nerdz.eu>. All Rights Reserved. : There is no NOTICE file. 
+opendcdiag : https://github.com/opendcdiag/opendcdiag : Apache License :There is no copyright info. : There is no NOTICE file. 
+openfhe-development : https://github.com/openfheorg/openfhe-development : BSD-2 : Copyright (c) 2022, OpenFHE
+openh264 : https://github.com/deepin-community/openh264 : BSD-2 : Copyright (c) 2013, Cisco Systems
+opensim-creator : https://github.com/ComputationalBiomechanicsLab/opensim-creator : Apache License :    Copyright [2024] [Adam Kewley] : There is no NOTICE file. 
+opentelemetry-cpp : https://github.com/open-telemetry/opentelemetry-cpp : Apache License :There is no copyright info. : There is no NOTICE file. 
+openvslam-comments : https://github.com/zm0612/openvslam-comments : BSD-2 : Copyright (c) 2019,
+or-tools : https://github.com/google/or-tools : Apache License :There is no copyright info. : There is no NOTICE file. 
+orbit : https://github.com/google/orbit : BSD-2 : Copyright (c) 2020 The Orbit Authors. All rights reserved.
+ouster_example : https://github.com/ouster-lidar/ouster_example : BSD-3 BSL-1.0MITApache 2.0Boost derivative : Copyright: 2018-2022 Ouster, Inc : There is no NOTICE file. 
+predictive-multi-agent-framework : https://github.com/riddhiman13/predictive-multi-agent-framework : BSD 3-Clause License : Copyright (c) TUM, LUH.
+printemps : https://github.com/snowberryfield/printemps : MIT : Copyright (c) 2020-2024 Yuji KOGUMA
+project-guideline : https://github.com/google-research/project-guideline : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+protected-auction-key-value-service : https://github.com/privacysandbox/protected-auction-key-value-service : Apache License 2.0 :There is no copyright info. : There is no NOTICE file. 
+pyTheiaSfM : https://github.com/urbste/pyTheiaSfM : BSD-3 // : // Copyright (C) 2013 The Regents of the University of California (Regents).
+shadow-of-the-wyrm : https://github.com/prolog/shadow-of-the-wyrm : MIT : Copyright (c) 2015, Julian Day
+O-CNN : https://github.com/microsoft/O-CNN : MIT License :     Copyright (c) Microsoft Corporation. All rights reserved.
+OpenArkCompiler : https://github.com/c2s/OpenArkCompiler : MIT License :There is no copyright info.
+OpenCC : https://github.com/BYVoid/OpenCC : Apache License :There is no copyright info. : There is no NOTICE file. 
+OpenDDS : https://github.com/OpenDDS/OpenDDS : MIT License :There is no copyright info.
+OpenLoco : https://github.com/OpenLoco/OpenLoco : MIT License : Copyright (c) 2018 OpenLoco developers
+OpenMLDB : https://github.com/4paradigm/OpenMLDB : Apache License :There is no copyright info. : There is no NOTICE file. 
+OpenWeaver : https://github.com/marlinprotocol/OpenWeaver : MIT License : Copyright (c) 2020 Marlin Contributors
+osp-magnum : https://github.com/TheOpenSpaceProgram/osp-magnum : MIT License : Copyright © 2019-2020 Open Space Program Project
+osu-kps : https://github.com/UnnamedOrange/osu-kps : MIT License : Copyright (c) 2021 UnnamedOrange
+quiche : https://github.com/google/quiche : BSD-3 : Copyright 2015 The Chromium Authors. All rights reserved.
+p4-dpdk-target : https://github.com/p4lang/p4-dpdk-target : Apache License :There is no copyright info. : There is no NOTICE file. 
+pangeo-pyinterp : https://github.com/CNES/pangeo-pyinterp : BSD 3-Clause : Copyright (c) 2020, CNES
+paxosstore : https://github.com/Tencent/paxosstore : BSD 3-Clause : Copyright (c) 2011, Google Inc.
+pbrt-v4 : https://github.com/mmp/pbrt-v4 : Apache License :There is no copyright info. : There is no NOTICE file. 
+pcl : https://github.com/otherlab/pcl : BSD License : Copyright (c) 2009-2012, Willow Garage, Inc.
+pdk : https://github.com/polarphp/pdk : Apache License :There is no copyright info. : There is no NOTICE file. 
+pendulum : https://github.com/ros2-realtime-demo/pendulum : Apache License :    Copyright 2019 Lander Usategui : There is no NOTICE file. 
+phasar : https://github.com/secure-software-engineering/phasar : MIT License, Boost Software License 1.0BSD-3 : Copyright (c) 2017 - 2020 Philipp Schubert and others
+phd2 : https://github.com/OpenPHDGuiding/phd2 : BSD-3 : Copyright (c) 2013-2019, Open PHD Guiding development team
+phpx : https://github.com/swoole/phpx : Apache License :    Copyright Tianfeng.Han [mikan.tenny@gmail.com] : There is no NOTICE file. 
+pika : https://github.com/OpenAtomFoundation/pika : BSD-3 : Copyright (c) 2015-2020, Qihoo360
+pistache : https://github.com/pistacheio/pistache : Apache License : SPDX-FileCopyrightText: 2016 Mathieu Stefani : There is no NOTICE file. 
+pkgfile : https://github.com/falconindy/pkgfile : MIT License : Copyright 2011-2018 by Dave Reisner <d@falconindy.com>
+pmls-caffe : https://github.com/sailing-pmls/pmls-caffe : BSD-2 : Copyright (c) 2014, The Regents of the University of California (Regents)
+pti-gpu : https://github.com/intel/pti-gpu : MIT License : Copyright (C) Intel Corportation
+pure_simd : https://github.com/eatingtomatoes/pure_simd : BSD 3-Clause : Copyright (c) 2018,
+puyoai : https://github.com/puyoai/puyoai : MIT License : Copyright (c) 2013- mayah, peria, test_lockit, shinh, pascal, and other puyoai contributors.
+tachyon : https://github.com/kroma-network/tachyon : MITBSD-3 : // Copyright 2015 The Chromium Authors
+taichi : https://github.com/taichi-dev/taichi : Apache License :There is no copyright info. : There is no NOTICE file. 
+tcmalloc : https://github.com/google/tcmalloc : Apache License :There is no copyright info. : There is no NOTICE file. 
+tera : https://github.com/baidu/tera : BSD-3Apache 2.0 : Copyright (c) 2015, Baidu, Inc. : There is no NOTICE file. 
+viyadb : https://github.com/viyadb/viyadb : Apache License :There is no copyright info. : There is no NOTICE file. 
+wasp : https://github.com/WebAssembly/wasp : Apache License :There is no copyright info. : There is no NOTICE file. 
+xgboost-serving : https://github.com/iqiyi/xgboost-serving : Apache License :    Copyright 2016, The TensorFlow Serving Authors. : There is no NOTICE file. 
+zendapi : https://github.com/qcoreteam/zendapi : Apache License :    Copyright Tianfeng.Han [mikan.tenny@gmail.com] : There is no NOTICE file. 
+PSI : https://github.com/OpenMined/PSI : Apache License :There is no copyright info. : There is no NOTICE file. 
+PX4-Autopilot : https://github.com/MChehadeh/PX4-Autopilot : BSD 3-Clause : Copyright (c) 2012 - 2023, PX4 Development Team
+PetIBM : https://github.com/barbagroup/PetIBM : BSD 3-Clause : Copyright (c) 2014-2015, Anush Krishnan, Olivier Mesnard
+PhotonLibOS : https://github.com/alibaba/PhotonLibOS : Apache License :There is no copyright info. : There is no NOTICE file. 
+PyMatching : https://github.com/oscarhiggott/PyMatching : Apache License :There is no copyright info. : There is no NOTICE file. 
+RareCpp : https://github.com/TheNitesWhoSay/RareCpp : MIT License : Copyright (c) 2019, 2020 Justin F
+RendererEngine : https://github.com/JeanPhilippeKernel/RendererEngine : MIT License : Copyright (c) 2020 Jean Philippe
+ScaleLLM : https://github.com/vectorch-ai/ScaleLLM : Apache License :There is no copyright info. : There is no NOTICE file. 
+pokerstove : https://github.com/andrewprock/pokerstove : BSD-3 : Copyright (c) 2012, Andrew C. Prock.
+polatory : https://github.com/polatory/polatory : MIT License : Copyright (c) 2016 GSI Co., Ltd. and Masashi Mizuno
+polyscope : https://github.com/nmwsharp/polyscope : MIT License : Copyright (c) 2017-2019 Nicholas Sharp and the Polyscope contributors
+primitiv : https://github.com/primitiv/primitiv : Apache License :There is no copyright info. : There is no NOTICE file. 
+prometheus-cpp : https://github.com/jupp0r/prometheus-cpp : MIT License : Copyright (c) 2016-2021 Jupp Mueller
+protobuf : https://github.com/protocolbuffers/protobuf  : BSD-3 : Copyright 2008 Google Inc.  All rights reserved.
+proxima : https://github.com/alibaba/proxima : Apache License :There is no copyright info. : There is no NOTICE file. 
+proxy : https://github.com/maistra/proxy : Apache License :There is no copyright info. : There is no NOTICE file. 
+reading-source-code-of-leveldb-1.23 : https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23 : BSD-3 : Copyright (c) 2011 The LevelDB Authors. All rights reserved.
+rocksplicator : https://github.com/pinterest/rocksplicator : Apache License :There is no copyright info. : There is no NOTICE file. 
