@@ -29,13 +29,10 @@ In the AutoOracle_Dataset:
 
 Usage Suggestions:
 
-		LLM Training / Fine-tuning:
-	
-        This dataset can be used to train or fine-tune large language models for C++ test oracle generation.
-	Model Evaluation:
-	
+	LLM Training / Fine-tuning:
+        This dataset can be used to train or fine-tune large language models for C++ test oracle generation.	
+	Model Evaluation:	
         It can be used to evaluate the performance of different test oracle generation approaches in the context of C++.
-	Research Support:
-	
+	Research Support:	
         The dataset provides a solid foundation for research in areas such as embedded systems and C++ software testing.
 
