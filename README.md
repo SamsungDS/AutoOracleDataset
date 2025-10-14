@@ -1,6 +1,6 @@
-#AutoOracle_Dataset
+**AutoOracle_Dataset**
 
-##**Introduction**
+# **Introduction**
 
 This dataset is the first large-scale, high-quality C++ Test-Assert Pair (TAP) dataset proposed and constructed by Samsung Electronics, designed to support research on automated test oracle generation using large language models (LLMs). This data was built from 666 open-source C++ projects and contains a total of 79,496 samples. 
 Each sample includes: 
@@ -19,7 +19,7 @@ We use the following key techniques to build a high-quality TAP dataset:
 	TAP Quality Scoring and Filtering Mechanism:
         Evaluate the relevance between TAPs and focal methods from multiple perspectives, and filter out low-quality samples to ensure reliable training data.
 
-Directory Structure:
+**Directory Structure**
 
 In the AutoOracle_Dataset:
 1. data/AutoOracle_Dataset_train_1.json, data/AutoOracle_Dataset_train_2.json and data/AutoOracle_Dataset_test.json are the C++ training and testing datesets.
@@ -27,7 +27,7 @@ In the AutoOracle_Dataset:
 3. licenses/ORIGINAL_PROJECTS_LICENSE_TEXTS.txt:  this file is list up all the original license for the open-source C++ projects downloaded from Github which we used to generate the dataset.
 4. licenses/notices/: under this folder there are the original notices files of the open-source C++ projects downloaded from Github which we used to generate the dataset.
 
-Usage Suggestions:
+**Usage Suggestions**
 
 	LLM Training / Fine-tuning:
         This dataset can be used to train or fine-tune large language models for C++ test oracle generation.	
