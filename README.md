@@ -15,15 +15,25 @@ This dataset serves as the accompanying resource for the paper "AutoOracle: High
 # **Directory Structure**
 
  ├── AUTHORS
+ 
  ├── data
+ 
  │   ├── AutoOracle_Dataset_test.json
+ 
  │   ├── AutoOracle_Dataset_train_1.json
+ 
  │   └── AutoOracle_Dataset_train_2.json
+ 
  ├── LICENSE_DATASET
+ 
  ├── licenses
+ 
  │   ├── notices
+ 
  │   ├── ORIGINAL_PROJECTS_LICENSE_TEXTS.txt
+ 
  │   └── ORIGINAL_PROJECTS_LIST.txt
+ 
  └── README.md
 
 
