@@ -6,19 +6,30 @@ This dataset is the first large-scale, high-quality C++ Test-Assert Pair (TAP) d
 
 **Each sample includes:**
 
-	"prompt": The test prefix and the definition of the focal method (i.e., the method under test),
-	"label": The corresponding test oracle （such as assertEqual(a, nullptr)）, and
+	"prompt": The test prefix and the definition of the focal method (i.e., the method under test).
+	"label": The corresponding test oracle (such as assertEqual(a, nullptr)).
 	"score": A quality score based on multi-dimensional evaluation.
 
 This dataset serves as the accompanying resource for the paper "AutoOracle: High-Quality C++ Test Oracle Generation via Data Quality-Driven and Filtering-Enabled LLMs", reflecting Samsung Electronics' latest research achievements in the field of automated testing for embedded software. It provides a standardized training and evaluation benchmark for C++ test oracle generation models, and offers strong support for test automation practices in industry sectors such as embedded systems and firmware development.
 
 # **Directory Structure**
 
-In the AutoOracle_Dataset:
-1. data/AutoOracle_Dataset_train_1.json, data/AutoOracle_Dataset_train_2.json and data/AutoOracle_Dataset_test.json are the C++ training and testing datesets.
-2. licenses/ORIGINAL_PROJECTS_LIST.txt:  this is the list of the open-source C++ projects downloaded from Github which we used to generate the dataset. It is including [project name + github url + license + copyright + notice files] info.
-3. licenses/ORIGINAL_PROJECTS_LICENSE_TEXTS.txt:  this file is list up all the original license for the open-source C++ projects downloaded from Github which we used to generate the dataset.
-4. licenses/notices/: under this folder there are the original notices files of the open-source C++ projects downloaded from Github which we used to generate the dataset.
+├── AUTHORS
+├── data
+│   ├── AutoOracle_Dataset_test.json
+│   ├── AutoOracle_Dataset_train_1.json
+│   └── AutoOracle_Dataset_train_2.json
+├── LICENSE_DATASET
+├── licenses
+│   ├── notices
+│   ├── ORIGINAL_PROJECTS_LICENSE_TEXTS.txt
+│   └── ORIGINAL_PROJECTS_LIST.txt
+└── README.md
+
+	1. data/AutoOracle_Dataset_train_1.json, data/AutoOracle_Dataset_train_2.json and data/AutoOracle_Dataset_test.json are the C++ training and testing datesets.
+	2. licenses/ORIGINAL_PROJECTS_LIST.txt:  this is the list of the open-source C++ projects downloaded from Github which we used to generate the dataset. It is including [project name + github url + license + copyright + notice files] info.
+	3. licenses/ORIGINAL_PROJECTS_LICENSE_TEXTS.txt:  this file is list up all the original license for the open-source C++ projects downloaded from Github which we used to generate the dataset.
+	4. licenses/notices/: under this folder there are the original notices files of the open-source C++ projects downloaded from Github which we used to generate the dataset.
 
 # **Usage Suggestions**
 
