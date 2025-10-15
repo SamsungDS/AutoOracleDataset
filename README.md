@@ -31,19 +31,19 @@ This dataset serves as the accompanying resource for the paper "AutoOracle: High
  └── README.md  
 
 
-	1. data/AutoOracle_Dataset_train_1.json, data/AutoOracle_Dataset_train_2.json and data/AutoOracle_Dataset_test.json are the C++ training and testing datesets.
-	2. licenses/ORIGINAL_PROJECTS_LIST.txt:  this is the list of the open-source C++ projects downloaded from Github which we used to generate the dataset. It is including [project name + github url + license + copyright + notice files] info.
-	3. licenses/ORIGINAL_PROJECTS_LICENSE_TEXTS.txt:  this file is list up all the original license for the open-source C++ projects downloaded from Github which we used to generate the dataset.
-	4. licenses/notices/: under this folder there are the original notices files of the open-source C++ projects downloaded from Github which we used to generate the dataset.
+1. data/AutoOracle_Dataset_train_1.json, data/AutoOracle_Dataset_train_2.json and data/AutoOracle_Dataset_test.json are the C++ training and testing datesets.
+2. licenses/ORIGINAL_PROJECTS_LIST.txt:  this is the list of the open-source C++ projects downloaded from Github which we used to generate the dataset. It is including [project name + github url + license + copyright + notice files] info.
+3. licenses/ORIGINAL_PROJECTS_LICENSE_TEXTS.txt:  this file is list up all the original license for the open-source C++ projects downloaded from Github which we used to generate the dataset.
+4. licenses/notices/: under this folder there are the original notices files of the open-source C++ projects downloaded from Github which we used to generate the dataset.
 
 
 
 ## **Usage Suggestions**
 
-	1. LLM Training / Fine-tuning:
-        This dataset can be used to train or fine-tune large language models for C++ test oracle generation.	
-	2. Model Evaluation:	
-        It can be used to evaluate the performance of different test oracle generation approaches in the context of C++.
-	3. Research Support:	
-        The dataset provides a solid foundation for research in areas such as embedded systems and C++ software testing.
+1. LLM Training / Fine-tuning:  
+    This dataset can be used to train or fine-tune large language models for C++ test oracle generation.	
+2. Model Evaluation:  
+    It can be used to evaluate the performance of different test oracle generation approaches in the context of C++.
+3. Research Support:  
+    The dataset provides a solid foundation for research in areas such as embedded systems and C++ software testing.
 
